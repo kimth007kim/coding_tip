@@ -1,0 +1,6 @@
+Material Theme
+-프로처럼 꾸며주는 EXTENSION
+
+Prettier
+-코드를 예쁘게 바꿔주는 Extension
+1.설치후 settings-prettier- edit in settings.json클릭
